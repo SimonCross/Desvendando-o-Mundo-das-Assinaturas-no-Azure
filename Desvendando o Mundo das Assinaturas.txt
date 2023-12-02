@@ -1,11 +1,9 @@
 Desvendando o Mundo das Assinaturas no Azure: Uma Jornada Simples pela Gestão de Recursos na Nuvem.
-
 Já ouvimos falar da sua assinatura no Azure, que é basicamente como você organiza e gerencia os serviços na nuvem. Vamos explicar de forma mais simples.
-
-Imagine que sua assinatura é como uma caixa que contém todos os recursos e serviços que você usa na nuvem. Isso ajuda na segurança, pois você decide quem pode acessar o quê. Além disso, é útil para entender e controlar quanto você gasta.
-
-Dentro dessa caixa, há diferentes grupos. Por exemplo, há algo chamado Azure Active Directory (AD), que inclui contas e informações de usuários. Isso é como uma prateleira na caixa.
-
-Ao olhar para sua caixa no portal do Azure, você verá diferentes opções. Pode escolher qual grupo de recursos usar e gerenciar tudo isso em um só lugar.
-
+Imagine que sua assinatura é como uma caixa que contém todos os 
+recursos e serviços que você usa na nuvem. Isso ajuda na segurança, pois você decide quem pode acessar o quê. Além disso, é útil para entender e controlar quanto você gasta.
+Dentro dessa caixa, há diferentes grupos. Por exemplo, há algo chamado 
+Azure Active Directory (AD), que inclui contas e informações de usuários. Isso é como uma prateleira na caixa.
+Ao olhar para sua caixa no portal do Azure, você verá diferentes opções. 
+Pode escolher qual grupo de recursos usar e gerenciar tudo isso em um só lugar.
 Espero que isso torne mais fácil entender como as assinaturas e os serviços na nuvem funcionam!
